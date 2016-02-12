@@ -14,7 +14,7 @@ appstore-recommendation
 We'll code seperately to let everyone have a chance getting their hands on, but also discuss the problems we come across online together.  
 Due to the Career Fair on Feb. 11th, we set Feb. 15th as the due of our first prototype. Then we'll discuss the improvement and furthur big-data related applications after, and eventually finish this first try on Feb. 20th.
 
-_[2016/02/11 - 2016/02/15]_ getting started on the first prototype
+__[2016/02/11 - 2016/02/15]__ getting started on the first prototype
 
 _[2016/02/15 - 2016/02/25]_ System Improvement, Resource Discovery, Functions Adding, Document Writing
 
